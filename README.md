@@ -8,9 +8,9 @@ My Personal Repository
 
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Afif",
+  "lastName": "Muizzuddin",
+  "age": 31
 }
 ```
 Here's a sentence with a footnote. [^1]
